@@ -27,7 +27,7 @@ def polynomials_coeff():
 
     #Outputs
     print('-------------------')
-    print('Coefficients of the polynomial that would best apprximate the data: ',BFL)
+    print('Coefficients of the polynomial that would best approximate the data: ',BFL)
 
 polynomials_coeff()
     
